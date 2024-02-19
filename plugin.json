@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "author": "thuongnv_ken",
+    "description": "Fixed"
+  },
+  "data": [ 
+        {
+        "name": "Sany Team",
+        "author": "thuongnv_extra",
+        "path": "https://raw.githubusercontent.com/escanor1616/vbook-extra/main/SannyTeam/plugin.zip",
+        "version": 1,
+        "source": "https://boylovewithsany.com",
+        "icon": "https://raw.githubusercontent.com/escanor1616/vbook-extra/main/SannyTeam/icon.png",
+        "description": "Đọc truyện trên trang SannyTeam",
+        "type": "comic",
+        "locale": "vi_VN"
+        },
+
+	{
+        "name": "Roads Team",
+        "author": "thuongnv_extra",
+        "path": "https://raw.githubusercontent.com/escanor1616/vbook-extra/main/RoadsTeam/plugin.zip",
+        "version": 1,
+        "source": "https://roadsteam.net",
+        "icon": "https://raw.githubusercontent.com/escanor1616/vbook-extra/main/RoadsTeam/icon.png",
+        "description": "Đọc truyện trên trang RoadsTeam",
+        "type": "comic",
+        "locale": "vi_VN"
+        }
+    ]
+}

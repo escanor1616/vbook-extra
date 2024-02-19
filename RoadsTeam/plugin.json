@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "Roads Team",
+    "author": "thuongnv_extra",
+    "version": 1,
+    "source": "https://roadsteam.net",
+    "regexp": "(www.)?roadsteam.net/manga/[0-9a-z-]+/?$",
+    "description": "Đọc truyện trên trang Roads Team ^.^",
+    "local": "en-EN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

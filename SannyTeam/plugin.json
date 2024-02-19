@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "SanyTeam",
+    "author": "thuongnv_extra",
+    "version": 1,
+    "source": "https://boylovewithsany.com/",
+    "regexp": "(www.)?boylovewithsany.com/manga/[0-9a-z-]+/?$",
+    "description": "Đọc truyện trên trang SanyTeam ^.^",
+    "local": "en-EN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
