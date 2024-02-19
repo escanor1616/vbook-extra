@@ -26,6 +26,17 @@
         "description": "Đọc truyện trên trang RoadsTeam",
         "type": "comic",
         "locale": "vi_VN"
+        },
+        {
+        "name": "Hac am chi cac",
+        "author": "thuongnv_extra",
+        "path": "https://raw.githubusercontent.com/escanor1616/vbook-extra/main/hacc/plugin.zip",
+        "version": 1,
+        "source": "https://hacamchicac.com",
+        "icon": "https://raw.githubusercontent.com/escanor1616/vbook-extra/main/hacc/icon.png",
+        "description": "Đọc truyện trên trang Hac am chi cac",
+        "type": "comic",
+        "locale": "vi_VN"
         }
     ]
 }
