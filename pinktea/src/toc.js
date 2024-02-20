@@ -14,7 +14,7 @@ function execute(url) {
         let doc = repsonse.html();
         let el = doc.select(".wp-manga-chapter")
         let data = [];
-        for (let i =0; i< el.length; i++) {
+        for (i= el.length; i--;) {
             let e = el.get(i);
             data.push({
                 name: e.select("a").text(),

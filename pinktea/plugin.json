@@ -2,7 +2,7 @@
   "metadata": {
     "name": "Pink Tea",
     "author": "thuongnv_extra",
-    "version": 1,
+    "version": 2,
     "source": "https://pinkteacomic.com/",
     "regexp": "(www.)?pinkteacomic.com/truyen/[0-9a-z-]+/?$",
     "description": "Đọc truyện trên trang Pink Tea ^.^",

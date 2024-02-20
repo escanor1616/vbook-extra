@@ -17,7 +17,7 @@ function execute(url) {
         for (let i =0; i< el.length; i++) {
             let e = el.get(i);
             data.push({
-                name: "Chap" + e.text(),
+                name: "Chap " + e.text(),
                 url: e.attr("href"),
                 host: "https://mangadm.cc" 
             })
