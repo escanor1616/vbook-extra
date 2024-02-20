@@ -1,0 +1,15 @@
+1.  "phần mở rộng trang này chưa được cài đặt hoăc trang này đã thay đổi địa chỉ trang"
+
+=> Do url truyện khác với regex trong file plugin.json
+
+----------------------------
+
+2. "Trang detail không hiện gì"
+
+=> Do chưa có trường "name" ở response
+
+----------------------------------
+
+3. "Trang Home không load thêm được mục lục các page 2,3,.. với Url = ..../page/2"
+
+=> Do có phần queries {page:page} => Xóa query page đi là được

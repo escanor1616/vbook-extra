@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "name": "Hac am chi cac",
+    "name": "Pink Tea",
     "author": "thuongnv_extra",
     "version": 1,
-    "source": "https://hacamchicac.com/",
-    "regexp": "(www.)?hacamchicac.com/[0-9a-z-]+/?$",
-    "description": "Đọc truyện trên trang Hac am chi cac ^.^",
+    "source": "https://pinkteacomic.com/",
+    "regexp": "(www.)?pinkteacomic.com/truyen/[0-9a-z-]+/?$",
+    "description": "Đọc truyện trên trang Pink Tea ^.^",
     "local": "en-EN",
     "language": "javascript",
     "type": "comic"

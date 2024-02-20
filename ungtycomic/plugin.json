@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "name": "Hac am chi cac",
+    "name": "Ưng Tỷ Comics",
     "author": "thuongnv_extra",
     "version": 1,
-    "source": "https://hacamchicac.com/",
-    "regexp": "(www.)?hacamchicac.com/[0-9a-z-]+/?$",
-    "description": "Đọc truyện trên trang Hac am chi cac ^.^",
+    "source": "https://ungtycomicsvip.com",
+    "regexp": "(www.)?ungtycomicsvip.com/[0-9a-z-]+.html/?$",
+    "description": "Đọc truyện trên trang Ưng Tỷ Comics ^.^",
     "local": "en-EN",
     "language": "javascript",
     "type": "comic"

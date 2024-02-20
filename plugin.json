@@ -37,6 +37,52 @@
         "description": "Đọc truyện trên trang Hac am chi cac",
         "type": "comic",
         "locale": "vi_VN"
+        },
+        {
+        "name": "Pink Tea",
+        "author": "thuongnv_extra",
+        "path": "https://raw.githubusercontent.com/escanor1616/vbook-extra/main/pinktea/plugin.zip",
+        "version": 1,
+        "source": "https://pinkteacomic.com",
+        "icon": "https://raw.githubusercontent.com/escanor1616/vbook-extra/main/pinktea/icon.png",
+        "description": "Đọc truyện trên trang pinktea",
+        "type": "comic",
+        "locale": "vi_VN"
+        },
+{
+        "name": "Mangadm",
+        "author": "thuongnv_extra",
+        "path": "https://raw.githubusercontent.com/escanor1616/vbook-extra/main/mangadm/plugin.zip",
+        "version": 1,
+        "source": "https://mangadm.cc",
+        "icon": "https://raw.githubusercontent.com/escanor1616/vbook-extra/main/mangadm/icon.png",
+        "description": "Đọc truyện trên trang Mangadm",
+        "type": "comic",
+        "locale": "vi_VN"
+        },
+
+	{
+        "name": "Ưng Tỷ Comics",
+        "author": "thuongnv_extra",
+        "path": "https://raw.githubusercontent.com/escanor1616/vbook-extra/main/ungtycomic/plugin.zip",
+        "version": 1,
+        "source": "https://ungtycomicsvip.com",
+        "icon": "https://raw.githubusercontent.com/escanor1616/vbook-extra/main/ungtycomic/icon.png",
+        "description": "Đọc truyện trên trang Ưng Tỷ Comics",
+        "type": "comic",
+        "locale": "vi_VN"
+        },
+	
+	{
+        "name": "QADC",
+        "author": "thuongnv_extra",
+        "path": "https://raw.githubusercontent.com/escanor1616/vbook-extra/main/anhdaocute/plugin.zip",
+        "version": 1,
+        "source": "https://qadc.net",
+        "icon": "https://raw.githubusercontent.com/escanor1616/vbook-extra/main/anhdaocute/icon.png",
+        "description": "Đọc truyện trên trang QADC",
+        "type": "comic",
+        "locale": "vi_VN"
         }
     ]
 }

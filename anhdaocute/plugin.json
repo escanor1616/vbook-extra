@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "name": "Hac am chi cac",
+    "name": "QADC",
     "author": "thuongnv_extra",
     "version": 1,
-    "source": "https://hacamchicac.com/",
-    "regexp": "(www.)?hacamchicac.com/[0-9a-z-]+/?$",
-    "description": "Đọc truyện trên trang Hac am chi cac ^.^",
+    "source": "https://qadc.net",
+    "regexp": "(www.)?qadc.net/manga/[0-9a-z-]+/?$",
+    "description": "Đọc truyện trên trang QADC ^.^",
     "local": "en-EN",
     "language": "javascript",
     "type": "comic"
