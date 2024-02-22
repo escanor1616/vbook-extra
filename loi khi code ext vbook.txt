@@ -13,3 +13,7 @@
 3. "Trang Home không load thêm được mục lục các page 2,3,.. với Url = ..../page/2"
 
 => Do có phần queries {page:page} => Xóa query page đi là được
+
+4. "p:nth-child(5)"
+
+=> Chọn phần tử p thứ 5
